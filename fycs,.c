@@ -1,5 +1,6 @@
 #include<stdio.h>
-void mian()
+void main()
 {
-printf("Hello Fycs"):
+printf("Hello Fycs");
+printf("this is updated");
 }
